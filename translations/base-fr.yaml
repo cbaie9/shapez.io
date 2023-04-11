@@ -102,9 +102,9 @@ mainMenu:
             Désactivez-les pour jouer au DLC.
     playingFullVersion: You are now playing the full version!
     logout: Logout
-    noActiveSavegames: No active savegames found - Click play to start a new game!
-    playFullVersionV2: Bough shapez on Steam? Play the full version in your Browser!
-    playFullVersionStandalone: You can now also play the full version in your Browser!
+    noActiveSavegames: Pas de sauvegarde trouvée - Cliquez pour démarrer une nouvelle partie!
+    playFullVersionV2: Vous avez acheter shapez sur Steam? Jouez à la version complète sur votre navigateur!
+    playFullVersionStandalone: Vous pouvez aussi jouez à la version complète dans votre navigateur!
 dialogs:
     buttons:
         ok: OK
@@ -290,15 +290,15 @@ dialogs:
         title: Supprimer le puzzle ?
         desc: Êtes-vous sûr de vouloir supprimer '<title>' ? Cela sera irréversible !
     modsDifference:
-        title: Mod Warning
-        desc: The currently installed mods differ from the mods the savegame was created
-            with. This might cause the savegame to break or not load at all. Are
-            you sure you want to continue?
-        missingMods: Missing Mods
-        newMods: Newly installed Mods
+        title: Avertissement de mods
+        desc: Les mods actuellement installés différe de la sauvegarde du monde.
+            Cela pourrais corrompre la sauvegarde ou ne pas la charger du tout. Êtes
+            vous sûre de continuer?
+        missingMods: Mods manquants
+        newMods: Mods installé récemment
     resourceLoadFailed:
-        title: Resources failed to load
-        demoLinkText: shapez demo on Steam
+        title: Les ressources ont échoué à chargées
+        demoLinkText: Demo de Shapez sur Steam
         descWeb: "One ore more resources could not be loaded. Make sure you have a
             stable internet connection and try again. If this still doesn't
             work, make sure to also disable any browser extensions (including
